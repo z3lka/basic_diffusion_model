@@ -4,10 +4,10 @@ This repository contains an implementation of a diffusion model trained on pixel
 
 # Example Outputs
 
-![Books]("./samples/generated_images.png")
-![More Books]("./samples/generated_images_1.png")
-![Potions]("./samples/generated_images_2.png")
-![Bows]("./samples/generated_images_3.png")
+![Books](./samples/generated_images.png)
+![More Books](./samples/generated_images_1.png)
+![Potions](./samples/generated_images_2.png)
+![Bows](./samples/generated_images_3.png)
 
 ## Features
 
